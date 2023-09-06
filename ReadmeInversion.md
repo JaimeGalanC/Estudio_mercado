@@ -7,4 +7,6 @@ Preparamos una presentación de la investigación para compartir con el grupo de
 2. Se realizó un análisis exploratorio de los datos
 3. Se describieron las características de los establecimientos
 
-Este proyecto fue realizado usando jupyter notebook y python.
+Este proyecto fue realizado usando:
+- [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+- [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)]()
